@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MhdM6+kr2DVCjfaYjpmxymdt5T+3g6lgzpOcm5e73o8R0SmPhtIsEPQ+gLF4kaxIZLLEFfcII3q2FOY/WwypdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Designrestaurant\\Designrestaurant\\Designrestaurant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
